@@ -53,8 +53,7 @@ Solar-System-Explorer/
 ## ▶️ Getting Started
 
 ```bash
-git clone https://github.com/your-username/solar-system-explorer.git
-cd solar-system-explorer
+git clone https://github.com/NavyaVerma03/Solar-System.git
 ```
 
 Open `index.html` in your browser
